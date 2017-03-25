@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;44_code-review&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../angongo" />
+      <root url="file://$PROJECT_DIR$/../helloworld" />
+      <root url="file://$PROJECT_DIR$/../sstwitter" />
+      <root url="file://$PROJECT_DIR$/../angular2-seed" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../udemyruns" />
+      <root url="file://$PROJECT_DIR$/../allofusgc" />
+      <root url="file://$PROJECT_DIR$/../go_appengine" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../angongo" />
+      <root url="file://$PROJECT_DIR$/../helloworld" />
+      <root url="file://$PROJECT_DIR$/../sstwitter" />
+      <root url="file://$PROJECT_DIR$/../angular2-seed" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../udemyruns" />
+      <root url="file://$PROJECT_DIR$/../allofusgc" />
+      <root url="file://$PROJECT_DIR$/../go_appengine" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
